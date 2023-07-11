@@ -53,7 +53,8 @@ Example:         :wq   (save and quit)
  dd           { to delete any line }  
  u            { undo }
  ctrl + r     { redo }
- cc           { to cut copy any line } 
+ cc           { to cut copy any line }
+ yw           { to copy any word } 
  yw	          { to copy any word }
  dw           { to delete any word }
  cw           { to cut copy word }
