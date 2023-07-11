@@ -6,9 +6,11 @@ In this repo, I have covered all the mainly used options of vi-vim command used 
 ▶ How to check VI or VIM command is available or not in your OS??
 
 [student@redhatlab ~]$ which vi
+
 /usr/bin/vi                      {If this output come that means VI is installed in your OS.}
 
 [student@redhatlab ~]$ which vim
+
 /usr/bin/which: no vim in (/home/student/.local/bin:/home/student/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin)      {VIM is not present in my OS}
 
 
