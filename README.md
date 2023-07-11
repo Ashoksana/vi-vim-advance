@@ -1,5 +1,5 @@
 # VI-VIM-Basic to Advance
-In this repo, I have covered all the option of vi-vim command used in linux.
+In this repo, I have covered all the mainly used options of vi-vim command used in linux.
 
 ▶ VI and VIM is a text editor used in linux.
 
