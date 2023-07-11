@@ -4,7 +4,8 @@ In this repo, I have covered all the option of vi-vim command used in linux.
 ▶ VI and VIM is a text editor used in linux.
 
 ▶ Package Required for VI  : **vim-minimal**-8.2.2637-20.el9_1.x86_64
-▶ Package Reduired for VIM : **vim-enhanced**-8.2.2637-20.el9_1.x86_64
+
+▶ Package Required for VIM : **vim-enhanced**-8.2.2637-20.el9_1.x86_64
 
 ▶ How to Install the vim package if not found in the OS :- **$ sudo yum install vim-enhanced* -y**
 
