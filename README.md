@@ -3,11 +3,24 @@ In this repo, I have covered all the option of vi-vim command used in linux.
 
 ▶ VI and VIM is a text editor used in linux.
 
+▶ How to check VI or VIM command is available or not in your OS??
+[student@redhatlab ~]$ which vi
+/usr/bin/vi                      {If this output come that means VI is installed in your OS.}
+
+[student@redhatlab ~]$ which vim
+/usr/bin/which: no vim in (/home/student/.local/bin:/home/student/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin)      {VIM is not present in my OS}
+
+
 ▶ Package Required for VI  : **vim-minimal**-8.2.2637-20.el9_1.x86_64
 
 ▶ Package Required for VIM : **vim-enhanced**-8.2.2637-20.el9_1.x86_64
 
-▶ How to Install the vim package if not found in the OS :- **$ sudo yum install vim-enhanced* -y**
+▶ How to Install the vim package if not found in the OS :- 
+[student@redhatlab ~]$ sudo yum install vim-enhanced* -y
+
+[student@redhatlab ~]$ which vim        ( To confirm VIM installed or not )
+/usr/bin/vim               
+
 
 ▶ Types of mode in  vim editor ?
 There are mainly three type of modes in vi/vim :- **01.)** INSERT MODE    **02.)** ESC MODE    **03.)** COMMAND OR COLON MODE
