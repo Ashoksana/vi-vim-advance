@@ -4,6 +4,7 @@ In this repo, I have covered all the mainly used options of vi-vim command used 
 ▶ VI and VIM is a text editor used in linux.
 
 ▶ How to check VI or VIM command is available or not in your OS??
+
 [student@redhatlab ~]$ which vi
 /usr/bin/vi                      {If this output come that means VI is installed in your OS.}
 
