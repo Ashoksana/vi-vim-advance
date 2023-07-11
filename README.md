@@ -55,19 +55,18 @@ Example:         :wq   (save and quit)
  ctrl + r     { redo }
  cc           { to cut copy any line }
  yw           { to copy any word } 
- yw	          { to copy any word }
  dw           { to delete any word }
  cw           { to cut copy word }
  p            { to paste the content}
  shift + d    { to delete line from the cursor }
- x 	        { to delete particular characters in forward side }
+ x 	          { to delete particular characters in forward side }
  shift + x    { to delete particular characters in backward side }
  shift + g    { to go in bottom of the file }
  gg	          { to move cursor in top of the file }
  zero         { to move cursor in begining of the line } {numeric zero }
  shift + $    { to move cursor in end of the line }
- b	        { to move cursor word by word in back side }   
- w	        { to move cursor word by word in forward side }
+ b            { to move cursor word by word in back side }
+ w	           { to move cursor word by word in forward side }
  /root	      { to search any pattern } 
               ( press n to jump on next pattern )
               ( press shift + n to jump on back pattern )
