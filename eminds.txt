@@ -1,3 +1,1 @@
-this my first line in file
-
-this is my second line of code
+this my first line
